@@ -13,3 +13,5 @@ plugins:
   - jekyll-sitemap
 theme:
 title: My wiki
+
+theme: jekyll-theme-time-machine
